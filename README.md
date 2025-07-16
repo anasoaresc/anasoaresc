@@ -2,8 +2,7 @@
 
 **`Estudante com foco no desenvolvimento full-stack`**
 
-Sou estudante de Ciência da Computação, com foco no desenvolvimento web, softwares, e análise de dados. 
-Sou apaixonada por tecnologia, e busco aprimorar meus conhecimentos e habilidades na área da programação, com o objetivo de crescer profissionalmente e me tornar uma desenvolvedora full-stack.
+Sou estudante de Ciência da Computação e apaixonada por tecnologia. Busco aprimorar meus conhecimentos e habilidades na área da programação, com o objetivo de crescer profissionalmente e me tornar uma desenvolvedora full-stack.
 
 ---
 
