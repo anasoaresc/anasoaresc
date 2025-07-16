@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Ana Clara
+# Ana Clara
 
 **`Estudante com foco no desenvolvimento full-stack`**
 
@@ -7,7 +7,7 @@ Sou apaixonada por tecnologia, e busco aprimorar meus conhecimentos e habilidade
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
