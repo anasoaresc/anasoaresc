@@ -1,20 +1,21 @@
-👩🏻‍💻 Ana Clara
+# 👩🏻‍💻 Ana Clara
 
 **`Estudante com foco no desenvolvimento full-stack`**
 
 Sou estudante de Ciência da Computação, com foco no desenvolvimento web, softwares, e análise de dados. 
 Sou apaixonada por tecnologia, e busco aprimorar meus conhecimentos e habilidades na área da programação, com o objetivo de crescer profissionalmente e me tornar uma desenvolvedora full-stack.
 
+---
 
-🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
-<img
+<img 
   align="left"
   alt="HTML"
   tittle="HTML"
   width:"30px"
   style="padding-rigth: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img
   align="left"
@@ -41,3 +42,4 @@ Sou apaixonada por tecnologia, e busco aprimorar meus conhecimentos e habilidade
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
+---
