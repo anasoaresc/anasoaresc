@@ -1,6 +1,6 @@
 # Ana Clara
 
-**`Estudante com foco no desenvolvimento full-stack`**
+**`Estudante de tecnologia com foco no desenvolvimento full-stack`**
 
 Sou estudante de Ciência da Computação e apaixonada por tecnologia. Busco aprimorar meus conhecimentos e habilidades na área da programação, com o objetivo de crescer profissionalmente e me tornar uma desenvolvedora full-stack.
 
