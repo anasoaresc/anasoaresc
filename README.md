@@ -44,7 +44,7 @@ Sou estudante de Ciência da Computação e apaixonada por tecnologia. Busco apr
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
